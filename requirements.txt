@@ -1,0 +1,6 @@
+pynput
+boto3
+Pillow
+requests
+cryptography
+pytz
